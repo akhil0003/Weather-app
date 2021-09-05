@@ -1,0 +1,22 @@
+.widgetContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 65%;
+  margin: 0 auto;
+}
+
+.widgetContainer > div {
+  flex: 0 0 190px;
+  display: flex;
+  align-items: center;
+}
+
+.descContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.descContainer > img {
+  width: 3rem;
+}

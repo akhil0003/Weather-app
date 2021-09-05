@@ -1,0 +1,22 @@
+.main {
+  padding: 5rem;
+}
+
+.main > input {
+  padding: 6px 1rem;
+  margin-bottom: 2rem;
+}
+
+.main > button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #77abb0;
+  color: white;
+  cursor: pointer;
+}
+
+.err {
+  font-size: 1rem;
+  color: red;
+  font-weight: bold;
+}
